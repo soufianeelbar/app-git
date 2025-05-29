@@ -13,7 +13,8 @@ body {
 h1 {
     font-size: 2.5em;
     margin-bottom: 20px;
-    color: #2c3e50;
+    color: #0d76de;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 /* Formulaire */
@@ -21,6 +22,7 @@ h1 {
     display: flex;
     gap: 10px;
     margin-bottom: 30px;
+    font-family: sans-serif;
 }
 
 input[type="text"] {
@@ -33,7 +35,7 @@ input[type="text"] {
 }
 
 input[type="text"]:focus {
-    border-color: #3498db;
+    border-color: #032237;
     outline: none;
 }
 
